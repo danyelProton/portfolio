@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "browserslist": "last 2 versions, > 0.5% and ie >= 11",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "core-js": "^3.48.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
